@@ -3,6 +3,6 @@ matplotlib
 numpy
 pandas
 scipy
-xarrays
+xarray
 cartopy
 netCDF4
